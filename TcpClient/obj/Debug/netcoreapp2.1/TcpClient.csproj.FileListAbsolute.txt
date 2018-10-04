@@ -1,0 +1,10 @@
+D:\source\TcpClient\TcpClient\obj\Debug\netcoreapp2.1\TcpClient.csproj.CoreCompileInputs.cache
+D:\source\TcpClient\TcpClient\obj\Debug\netcoreapp2.1\TcpClient.AssemblyInfoInputs.cache
+D:\source\TcpClient\TcpClient\obj\Debug\netcoreapp2.1\TcpClient.AssemblyInfo.cs
+D:\source\TcpClient\TcpClient\bin\Debug\netcoreapp2.1\TcpClient.deps.json
+D:\source\TcpClient\TcpClient\bin\Debug\netcoreapp2.1\TcpClient.runtimeconfig.json
+D:\source\TcpClient\TcpClient\bin\Debug\netcoreapp2.1\TcpClient.runtimeconfig.dev.json
+D:\source\TcpClient\TcpClient\bin\Debug\netcoreapp2.1\TcpClient.dll
+D:\source\TcpClient\TcpClient\bin\Debug\netcoreapp2.1\TcpClient.pdb
+D:\source\TcpClient\TcpClient\obj\Debug\netcoreapp2.1\TcpClient.dll
+D:\source\TcpClient\TcpClient\obj\Debug\netcoreapp2.1\TcpClient.pdb
